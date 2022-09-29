@@ -1,0 +1,25 @@
+{
+  "name": "modulekit",
+  "version": "1.0.0",
+  "description": "example for module macrogiciel",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacroGiciel/ModuleKit.git"
+  },
+  "keywords": [
+    "Macrogiciel",
+    "Api",
+    "Kit",
+    "Module"
+  ],
+  "author": "Tai Tetsuyuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MacroGiciel/ModuleKit/issues"
+  },
+  "homepage": "https://github.com/MacroGiciel/ModuleKit#readme"
+}
