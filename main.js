@@ -4,6 +4,13 @@ module.exports = {
     init: function(data){
         data = JSON.parse(data);
         console.log(`${moduleConfig.name}: ${data}`);
+
+        switch(data.mode){
+            case 'yourmode':
+                break;
+            default:
+                console.log('ERROR NO MODE FOUND !');
+        }
     },
     register: async function(){
         var mode = {
